@@ -32,8 +32,10 @@
 
  }
  th{
-     padding : 3px 58px;
-     display: inline;
+     padding : 3px 53px;
+     
  }
-
+ td{
+     padding: 4px 60px;
+ }
  
